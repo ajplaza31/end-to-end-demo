@@ -15,11 +15,6 @@
     {"PassID":"30109", "CustomerID":"50796", "PaymentReceipt":"368302734",  "LineID":"20943", "PassStart":"Old Town", "PassDestination":"Carlsbad", "Price":"4.75", "IsValid":"1"},
     {"PassID":"69463", "CustomerID":"2572", "PaymentReceipt":"12345236489",  "LineID":"1149", "PassStart":"Old Town", "PassDestination":"Sorrento Valley", "Price":"5.89", "IsValid":"1"}
     ],
-  "RouteInfo": [
-    {"RouteID":"3742", "ZonesCovered":"One Zone", "LineID":"1149", "ETA":"15 minutes", "StationID":"492"},
-    {"RouteID":"61213", "ZonesCovered":"Two Zone", "LineID":"20943", "ETA":"25 minutes", "StationID":"786"},
-    {"RouteID":"598909", "ZonesCovered":"One Zone", "LineID":"50030", "ETA":"40 minutes", "StationID":"1073"}
-  ],
   "Station": [
     {"StationID":"0", "LineID":"0"},
     {"StationID":"1", "LineID":"1"},
