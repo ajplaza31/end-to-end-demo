@@ -10,7 +10,8 @@
     {"LineID":"2", "IncomingStations":"2", "Destination":"0", "ETA":"73 minutes", "TransitType":"Subway"}
     ],
   "Customer": [
-    {"CustomerID":"0", "SavedPaymentInfo":"41325367753234", "Name":"Charles Greenburg", "Balance":"60"}
+    {"CustomerID":"0", "SavedPaymentInfo":"41325367753234", "Name":"Charles Greenburg", "Balance":"60"},
+    {"CustomerID":"1234567", "SavedPaymentInfo":"123443323", "Name":"Andrew Plaza", "Balance":"52.25"}
     ],
   "PassData": [
     {"PassID":"2", "CustomerID":"0", "PaymentReceipt":"12",  "LineID":"0", "PassStart":"0", "PassDestination":"1", "Price":"3.25", "IsValid":"1"}
