@@ -31,21 +31,10 @@
   "TransitLine": [
     {"LineID":"0", "IncomingStations":"0", "Destination":"1", "ETA":"60 minutes", "TransitType":"Subway"},
     {"LineID":"1", "IncomingStations":"1", "Destination":"2", "ETA":"66 minutes", "TransitType":"Subway"},
-<<<<<<< HEAD
     {"LineID":"2", "IncomingStations":"2", "Destination":"0", "ETA":"73 minutes", "TransitType":"Subway"},
     {"LineID":"1149", "IncomingStations":"Santa Fe", "Destination":"Oceanside", "ETA":"65 minutes", "TransitType":"Coaster Train"},
     {"LineID":"20943", "IncomingStations":"Fashion Valley", "Destination":"Old Town", "ETA":"12 minutes", "TransitType":"Trolley Green Line"},
     {"LineID":"50030", "IncomingStations":"Solana Beach", "Destination":"Union Station", "ETA":"185 minutes", "TransitType":"Pacific Surfliner Train"}
-=======
-    {"LineID":"2", "IncomingStations":"2", "Destination":"0", "ETA":"73 minutes", "TransitType":"Subway"}
-    ],
-  "Customer": [
-    {"CustomerID":"0", "SavedPaymentInfo":"41325367753234", "Name":"Charles Greenburg", "Balance":"60"},
-    {"CustomerID":"1234567", "SavedPaymentInfo":"123443323", "Name":"Andrew Plaza", "Balance":"62.25"}
-    ],
-  "PassData": [
-    {"PassID":"2", "CustomerID":"0", "PaymentReceipt":"12",  "LineID":"0", "PassStart":"0", "PassDestination":"1", "Price":"3.25", "IsValid":"1"}
->>>>>>> 229a4d691e7a3a3bf774406fae1e61f20481f782
     ],
   "profile": {
     "name": "ajplaza31"
