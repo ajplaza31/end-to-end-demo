@@ -1,3 +1,4 @@
-JSON server that simulates end-to-end system for virtual ticketing agent
-Server processes changes to cubic.sql from user interaction
-Server pushes changes to cubic.sql from backend interaction
+- JSON server that simulates end-to-end system for virtual ticketing agent
+- Server processes changes to cubic.sql from user interaction
+- Server pushes changes to cubic.sql from backend interaction
+- Server can be accessed at this link here: https://my-json-server.typicode.com/ajplaza31/end-to-end-demo
