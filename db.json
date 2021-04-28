@@ -1,8 +1,8 @@
 {
   "Station": [
-    {"StationID":"0", "Zone":"0"},
-    {"StationID":"1", "Zone":"1"},
-    {"StationID":"2", "Zone":"2"}
+    {"StationID":"0", "LineID":"0"},
+    {"StationID":"1", "LineID":"1"},
+    {"StationID":"2", "LineID":"2"}
     ],
   "TransitLine": [
     {"LineID":"0", "Departure":"0", "Destination":"1", "ETA":"1:00", "AvgTravelTime":"0:05", "TransitType":"Subway", "ZonesCovered":"1"},
